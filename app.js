@@ -92,3 +92,4 @@ range.addEventListener("input",changeRange)
 mode.addEventListener("click",changeMode)
 document.addEventListener("contextmenu", e => e.preventDefault())
 save.addEventListener("click",saving)
+
